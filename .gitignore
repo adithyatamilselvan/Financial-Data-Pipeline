@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+logs/*.log
+data/raw/*.csv
+data/raw/*.json
+data/processed/*.csv
+data/reports/*.json
+.idea/
+.vscode/
